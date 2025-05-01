@@ -26,6 +26,10 @@ ro.vendor.mi_sf.supported_automode_maxfps_list=60,120
 ro.vendor.touchfeature.type=183
 vendor.display.support_mafr_feature=1
 
+# Fingerprint
+persist.vendor.fingerprint.type=udfps
+persist.vendor.fingerprint.sensor_location=720|2480|134
+
 # Marketname
 ro.product.marketname=Xiaomi 15 Pro
 
