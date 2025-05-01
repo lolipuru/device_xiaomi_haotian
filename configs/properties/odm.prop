@@ -1,0 +1,33 @@
+# Audio
+ro.vendor.audio.A2H.cirrus=true
+ro.vendor.audio.special.video.wnd_ns.type=3,C,0,1,1,2
+ro.vendor.audio.voice.voip.holder.support=true
+
+# Bluetooth
+bluetooth.device.default_name=Xiaomi 15 Pro
+
+# Display
+debug.config.video.hevchdr10.encode.support=true
+debug.video.recovery.killenable=true
+persist.sys.miui_resolution=1080,2400,450
+persist.vendor.disable_idle_fps.threshold=0
+persist.vendor.disable_idle_fps=false
+persist.vendor.touchfeature.gameturbotool.version=v3.5
+ro.vendor.display.dobly_dpu.enable=true
+ro.vendor.display.primary_idle_refresh_rate=1,1:0
+ro.vendor.display.switch_resolution.support=1
+ro.vendor.display.uiservice_mafr.enable=true
+ro.vendor.mi_sf.enable_tp_idle_automode=true
+ro.vendor.mi_sf.enable_tp_idle_automode=true
+ro.vendor.mi_sf.support_automode_for_normalfps=false
+ro.vendor.mi_sf.support_source_hdr_ProjectionScreen=true
+ro.vendor.mi_sf.support_source_p3_ProjectionScreen=true
+ro.vendor.mi_sf.supported_automode_maxfps_list=60,120
+ro.vendor.touchfeature.type=183
+vendor.display.support_mafr_feature=1
+
+# Marketname
+ro.product.marketname=Xiaomi 15 Pro
+
+# USB
+vendor.usb.product_string=Xiaomi 15 Pro
